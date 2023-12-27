@@ -1,5 +1,5 @@
 {
-    "name": "clue/redis-react",
+    "name": "wpjscc/redis-react",
     "description": "Async Redis client implementation, built on top of ReactPHP.",
     "keywords": ["Redis", "database", "client", "async", "ReactPHP"],
     "homepage": "https://github.com/clue/reactphp-redis",
